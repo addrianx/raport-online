@@ -1,0 +1,16 @@
+{
+   "name":"Daftar Nilai",
+   "short_name":"DaftarNilai",
+   "start_url":"/web-nilai",
+   "display":"standalone",
+   "background_color":"#fff",
+   "theme_color":"#fff",
+   "orientation":"portrait-primary",
+   "icons":[
+      {
+         "src":"../img/scholarship.png",
+         "type":"image/png",
+         "sizes":"256x256"
+      }
+   ]
+}
